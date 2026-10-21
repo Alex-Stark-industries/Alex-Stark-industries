@@ -60,7 +60,7 @@ a web search, any app by name. **No language model**, no huge downloads, nothing
 </td>
 <td width="50%" valign="top">
 
-### 🧗 [Teo — Desktop Buddy](https://github.com/Alex-Stark-industries/Teo-DesktopBuddy)
+### <img src="https://raw.githubusercontent.com/Alex-Stark-industries/Alex-Stark-industries/main/assets/teo-face.png" width="28" alt="Teo"> [Teo — Desktop Buddy](https://github.com/Alex-Stark-industries/Teo-DesktopBuddy)
 A tiny **desk robot** on your taskbar — blue **Teo** or pink **Tea**. He climbs the windows you open,
 gives friendly tips, sets timers and reminders, and answers out loud. No language model, no cloud.
 
@@ -86,7 +86,7 @@ gives friendly tips, sets timers and reminders, and answers out loud. No languag
 | 🤖 | JARVIS Demo | Local chatbot + voice agent (Ollama) | MIT |
 | 💗 | FRIDAY Demo | Local chatbot + voice mode (Ollama) | MIT |
 | 🔵 | Lumen | Voice orb, instant answers, no LLM | Free to use |
-| 🧗 | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
+| <img src="https://raw.githubusercontent.com/Alex-Stark-industries/Alex-Stark-industries/main/assets/teo-face.png" width="22" alt="Teo"> | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
 
 ---
 
