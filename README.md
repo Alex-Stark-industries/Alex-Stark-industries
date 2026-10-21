@@ -88,20 +88,6 @@ gives friendly tips, sets timers and reminders, and answers out loud. No languag
 | 🔵 | Lumen | Voice orb, instant answers, no LLM | Free to use |
 | 🧗 | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
 
-<details>
-<summary>🇮🇹 In italiano</summary>
-
-Costruisco **assistenti desktop locali per Windows**: girano sul tuo PC, **senza account, chiavi API, abbonamenti o cloud**.
-
-- **JARVIS Demo** — chatbot e agente vocale locale, multilingue, via Ollama.
-- **FRIDAY Demo** — chat e modalità vocale locale, gratuita e illimitata.
-- **Lumen** — una piccola sfera vocale sul desktop: tasto destro e risposte istantanee, a voce.
-- **Teo — Desktop Buddy** — un robottino sulla barra delle applicazioni (Teo blu o Tea rosa): si arrampica sulle finestre che apri, dà consigli, imposta timer e promemoria.
-
-Tutto gratuito, privato per scelta, con aggiornamenti automatici dalle release di GitHub.
-
-</details>
-
 ---
 
 <p align="center"><sub>Not affiliated with, sponsored by, or associated with any film, game, franchise or brand.</sub></p>
