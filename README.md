@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex Stark 👋</h1>
 
 <p align="center">
-  I build <b>local-first desktop assistants for Windows</b> — they run on your own PC,<br>
+  I build <b>local-first desktop apps for Windows</b> — assistants and music tools that run on your own PC,<br>
   with <b>no account, no API key, no subscription and no cloud</b>.
 </p>
 
@@ -10,6 +10,7 @@
   <a href="https://github.com/Alex-Stark-industries/FRIDAY-Demo"><img alt="FRIDAY" src="https://img.shields.io/badge/FRIDAY-Demo-e91e63"></a>
   <a href="https://github.com/Alex-Stark-industries/Lumen-Desktop-Orb"><img alt="Lumen" src="https://img.shields.io/badge/Lumen-Desktop%20Orb-38bdf8"></a>
   <a href="https://github.com/Alex-Stark-industries/Teo-DesktopBuddy"><img alt="Teo" src="https://img.shields.io/badge/Teo-Desktop%20Buddy-f08cc0"></a>
+  <a href="https://github.com/Alex-Stark-industries/ContinuumTUBE"><img alt="ContinuumTUBE" src="https://img.shields.io/badge/ContinuumTUBE-Guitar%20Rig-d4a55a"></a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows">
 </p>
 
@@ -70,6 +71,19 @@ gives friendly tips, sets timers and reminders, and answers out loud. No languag
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎸 [ContinuumTUBE — Boutique Guitar Rig](https://github.com/Alex-Stark-industries/ContinuumTUBE)
+A complete **guitar rig** as a VST3 plugin and standalone app: five guitars with switchable pickups, four tube amps
+with their own cabinets, 21 pedals and 15 song-inspired presets. Drag, drop, play — fully offline, no account.
+
+<a href="https://github.com/Alex-Stark-industries/ContinuumTUBE"><img src="https://raw.githubusercontent.com/Alex-Stark-industries/ContinuumTUBE/main/media/shots/rig-gravity.png" alt="ContinuumTUBE guitar rig" width="100%"></a>
+
+[🌐 Website](https://alex-stark-industries.github.io/ContinuumTUBE/) · [⬇ Download](https://github.com/Alex-Stark-industries/ContinuumTUBE/releases/latest)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -87,6 +101,7 @@ gives friendly tips, sets timers and reminders, and answers out loud. No languag
 | 💗 | FRIDAY Demo | Local chatbot + voice mode (Ollama) | MIT |
 | 🔵 | Lumen | Voice orb, instant answers, no LLM | Free to use |
 | <img src="https://raw.githubusercontent.com/Alex-Stark-industries/Alex-Stark-industries/main/assets/teo-face.png" width="22" alt="Teo"> | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
+| 🎸 | ContinuumTUBE | Guitar amp & effects rig (VST3 + standalone) | Free to use |
 
 ---
 
